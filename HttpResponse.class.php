@@ -1,6 +1,9 @@
 <?php
-
-
+	
+	/**
+ 	 * @author Ibrahim Tounkara
+ 	 */
+	
 	class HttpResponse{
 		
 		/**
