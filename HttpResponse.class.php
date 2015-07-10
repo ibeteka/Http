@@ -1,8 +1,8 @@
 <?php
 	
-	/**
- 	 * @author Ibrahim Tounkara
- 	 */
+/**
+ * @author Ibrahim Tounkara (PHP/Symfony Backend Developer)
+ */
 	
 	class HttpResponse{
 		
